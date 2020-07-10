@@ -65,7 +65,7 @@ function App() {
 						</div>
 						<div className='row'>
 							<div className='col-3'>
-								<Item pix={Pix1}/>
+								<Item pix={Pix1} />
 							</div>
 							<div className='col-3'>
 								<Item pix={Pix2}/>
